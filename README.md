@@ -1,2 +1,2 @@
-# GE25
+# GP-25
 GameEngine25
